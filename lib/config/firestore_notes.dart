@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 class FirestoreNotes {
 
-  FirebaseFirestore conexion=FirebaseFirestore.instance;
-
+`  FirebaseFirestore conexion=FirebaseFirestore.instance;
+`
   CollectionReference? notesCollection;
 
   FirestoreNotes(){
